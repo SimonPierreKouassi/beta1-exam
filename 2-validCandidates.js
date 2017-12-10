@@ -28,3 +28,10 @@ const users = [
 ]
 
 // Your code :
+const validCandidates = user => {
+  let users = 0 
+  for ( users = 0; users.length < 15; i++)
+  const comp = (age > 18 && age < 25)? name : "vous n'etes pas admissible"
+  
+  return comp
+  }

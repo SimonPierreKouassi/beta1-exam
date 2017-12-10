@@ -20,3 +20,8 @@
  */
 
 // Your code :
+ const user = {
+    name : 'simon-pierre',
+    email : 'simonkouassi33@gmail.com',
+    age : 19
+ }

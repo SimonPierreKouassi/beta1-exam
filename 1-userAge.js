@@ -7,6 +7,14 @@
  *
  */
 
-const user = {} // copy the one from the previous exercice
+const user = {
+ name : 'simon-pierre',
+ email : 'simonkouassi33@gmail.com',
+ age : 19} 
+
+ 
+// copy the one from the previous exercice
 
 // Your code :
+const userAge = age => { userAge[age] }
+return userAge
